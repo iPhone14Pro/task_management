@@ -19,3 +19,7 @@
    - 대시보드에서 완수율 보여주기
    - 소셜 로그인 기능 추가
 - 아직까지 진척이 없어서 이 정도까지만 의논함. 
+
+#11월 16일 회의록
+- 기능명세서 작성 시작, 일요일 목표로 함. 
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0631ac10-2060-4c1c-a16f-7a64f0910ddd/Untitled.png)
