@@ -22,4 +22,4 @@
 
 #11월 16일 회의록
 - 기능명세서 작성 시작, 일요일 목표로 함. 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0631ac10-2060-4c1c-a16f-7a64f0910ddd/Untitled.png)
+- 화면명, 요구사항명, 내용, 중요도 
