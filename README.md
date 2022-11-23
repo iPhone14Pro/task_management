@@ -19,6 +19,7 @@
 - 대시보드 분석 기능을 추가 및 디자인. 
 - 프로젝트 선택 대화상자 디자인함
 - 날짜 한 주 달력 대신 타이틀로 보여주기로 함
+
 자세한 것들은 자세한 사항은 [디자인 파일](https://www.figma.com/file/5V4p451R4v1oUfv7ihPlbV/logics?node-id=701%3A714&viewport=-399%2C-3%2C0.88&t=i4CEUfQhQKvCpoar-11) 참고
 
 ## 11월 30일 회의록
