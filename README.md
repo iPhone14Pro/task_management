@@ -36,4 +36,4 @@
 자세한 것들은 자세한 사항은 [디자인 파일](https://www.figma.com/file/5V4p451R4v1oUfv7ihPlbV/logics?node-id=701%3A714&viewport=-399%2C-3%2C0.88&t=i4CEUfQhQKvCpoar-11) 참고
 
 ## 11월 30일 회의록
-- 역할분담
+- 역할분담: 발표 담당 지정. 
