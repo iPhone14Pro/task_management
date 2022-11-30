@@ -4,13 +4,14 @@
 
 
 ## 사용 기술 스택
-백엔드는 들어가지 않음. 
+- 프론트엔드 프레임워크: [React](https://github.com/facebook/react)
+  - 링크: [React Router](https://github.com/remix-run/react-router)
 
 # 회의록
 ## 11월 23일 회의록
 ### 향후 프로젝트 진행 계획
 - 1주차(11월 24일~30일) 동안에는 태스크를 추가하고 수정하고 삭제할 수 있는 기능을 완성
-- 2주차(12월 1~6일) 동안에는 분석 페이지를 구현 
+- 2주차(12월 1~6일) 동안에는 분석 페이지, 나머지 기능들을 구현 
 
 ### 11월 23일 프로젝트 진행 일지
 
@@ -23,3 +24,6 @@
 자세한 것들은 자세한 사항은 [디자인 파일](https://www.figma.com/file/5V4p451R4v1oUfv7ihPlbV/logics?node-id=701%3A714&viewport=-399%2C-3%2C0.88&t=i4CEUfQhQKvCpoar-11) 참고
 
 ## 11월 30일 회의록
+
+- 수민: 제가 PPT 템플릿 줄 테니까 여기 맞춰서 발표 자료 만들면 됨
+- 
