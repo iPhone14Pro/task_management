@@ -4,8 +4,10 @@
 
 
 ## 사용 기술 스택
+- 런타임: [Node.js](https://github.com/nodejs/node)
+ - 오픈소스 라이브러리, 프레임워크: [npm](https://github.com/npm/npm)으로 다운받음
 - 프론트엔드 프레임워크: [React](https://github.com/facebook/react)
-  - 링크: [React Router](https://github.com/remix-run/react-router)
+ - 링크: [React Router](https://github.com/remix-run/react-router)
 
 # 회의록
 ## 11월 23일 회의록
