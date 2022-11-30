@@ -26,6 +26,3 @@
 자세한 것들은 자세한 사항은 [디자인 파일](https://www.figma.com/file/5V4p451R4v1oUfv7ihPlbV/logics?node-id=701%3A714&viewport=-399%2C-3%2C0.88&t=i4CEUfQhQKvCpoar-11) 참고
 
 ## 11월 30일 회의록
-
-- 수민: 제가 PPT 템플릿 줄 테니까 여기 맞춰서 발표 자료 만들면 됨
-- 
