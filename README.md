@@ -9,6 +9,18 @@
 - 프론트엔드 프레임워크: [React](https://github.com/facebook/react)
   - 링크: [React Router](https://github.com/remix-run/react-router)
 
+
+# 역할 분담
+- 호윤
+  - 페이지별 정보구조 설계
+    - 정보구조: 페이지 연결 관계, 페이지별로 들어갈 정보들을 정의한 그림.
+      (링크 참조)[https://www.figma.com/file/6x4xYUwHxRpoZznsiQYAlO/%EC%9D%BC%EC%A0%95%EA%B4%80%EB%A6%AC-%EC%A0%95%EB%B3%B4%EA%B5%AC%EC%A1%B0?node-id=0%3A1&viewport=12792%2C2291%2C1.15&t=MwQi2ewme03jYR1X-11]
+    - 전반적인 개발 담당
+
+- 수민
+  - 디자인 시안 보고 기능명세서 작성
+  - 발표 자료 제작 및 발표
+
 # 회의록
 ## 11월 23일 회의록
 ### 향후 프로젝트 진행 계획
